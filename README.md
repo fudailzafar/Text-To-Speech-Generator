@@ -24,12 +24,6 @@ A simple and responsive web-based Text to Speech (TTS) converter. This applicati
 3. Select a voice from the dropdown menu if available.
 4. Click the **Listen** button to hear the text spoken aloud.
 
-## Technologies Used
-
-- **HTML5**: For structuring the web page.
-- **CSS3**: For styling and creating a responsive design.
-- **JavaScript**: For implementing the speech synthesis functionality using the Web Speech API.
-
 ## Notes
 
 - The voices available in the dropdown depend on the browser and device used.
